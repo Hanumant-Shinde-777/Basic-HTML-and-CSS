@@ -1,7 +1,10 @@
-*{
-    font-family: fantasy;
+p.hover{
+    font-family:monospace;
 }
 
 p{
     font-family: 'Courier New', Courier, monospace;
+}
+p.hover{
+    font-family: monospace;
 }
